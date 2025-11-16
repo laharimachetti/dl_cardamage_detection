@@ -48,4 +48,4 @@ with col2:
 
 # ----- IMAGE BELOW -----
 if uploaded_file:
-    st.image(uploaded_file, caption="Uploaded File", use_container_width=True)
+    st.image(uploaded_file, caption="Uploaded File", use_column_width=True)
