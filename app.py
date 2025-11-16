@@ -30,7 +30,7 @@ st.markdown(
 col1, col2 = st.columns([1, 2])
 
 with col1:
-    st.image(r"D:\DL_Project\vehicle.png", use_container_width=True)
+    st.image(r"D:\DL_Project\vehicle.png", use_column_width=True)
 
 with col2:
     st.markdown("<div class='upload-box'>", unsafe_allow_html=True)
