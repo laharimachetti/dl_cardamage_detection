@@ -3,6 +3,8 @@
 A deep learning–powered application that detects vehicle damage by classifying car images into multiple categories.
 This project uses PyTorch, ResNet50, Optuna hyperparameter tuning, and a Streamlit web app for deployment.
 
+🔗 Live App: [Car Damage Detection](https://dlcardamagedetection-ygzrie9ufw6qv48pntcjbh.streamlit.app/)
+
 ### **⚙️ Tech Stack Used**
 
 - Python , PyTorch 
@@ -43,4 +45,4 @@ Performance measured using:
 
 - **Hosting:** Fully deployed on Streamlit Cloud, accessible online
 
-🔗 Live App: https://dlcardamagedetection-ygzrie9ufw6qv48pntcjbh.streamlit.app/
+
